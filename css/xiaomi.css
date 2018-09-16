@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2018-08-02 15:15:29
 * @Last Modified by:   Dell
-* @Last Modified time: 2018-09-14 00:43:04
+* @Last Modified time: 2018-09-16 13:55:45
 */
 *{
 	margin: 0;
@@ -1422,17 +1422,15 @@ margin-right: 0px;
 .box-pj .lis1 a{
 	height: 55px;
 	display: block;
-	
-
 }
 .neirong .list:nth-child(5){
 	margin-left:13px; 
 }
-/* .box-pj .lis1 .active2{
+.box-pj .lis1 .active2{
 	border-bottom: 2px solid #ff6700;
 	color: #ff6700;
-} */
-/* .box-pj .lis1 a:nth-child(1):hover {
+}
+.box-pj .lis1 a:nth-child(1):hover {
 		color: #ff6700;
 }
 .box-pj .lis1 a:nth-child(2):hover {
@@ -1443,7 +1441,7 @@ margin-right: 0px;
 }
 .box-pj .lis1 a:nth-child(4):hover {
 	color: #ff6700;
-} */
+}
 /* 内容 */
 .nr{
 	width: 100%;
